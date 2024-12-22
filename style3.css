@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding : 0;
+    box-sizing: boarder-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    min-height:100vh;
+    background:skyblue;
+        background-image: url('https://i.pinimg.com/originals/51/0b/9e/510b9e17faac6df15673e42e534f9d57.gif');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+
+}
+
+h2{
+    font-size: 3em;
+    color: salmon;
+    margin: 15px 0;
+    justify-content: top;
+}
